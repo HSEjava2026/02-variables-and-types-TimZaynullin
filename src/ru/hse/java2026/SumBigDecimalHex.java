@@ -1,3 +1,5 @@
+package ru.hse.java2026;
+
 import java.math.BigDecimal;
 import java.math.BigInteger;
 

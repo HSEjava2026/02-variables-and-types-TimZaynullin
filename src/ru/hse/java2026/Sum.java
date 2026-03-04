@@ -1,3 +1,5 @@
+package ru.hse.java2026;
+
 public class Sum {
 
     public static void main(String[] args) {
